@@ -1,4 +1,4 @@
-package com.example.coolwheather;
+package com.example.coolweather;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
